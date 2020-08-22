@@ -16,4 +16,4 @@ add_ace resource.JobsCounter command.sets allow
 ### Style 2
 ![Number of Players in Service](https://i.imgur.com/yHbId4n.png)
 
->**Note:** To change the style just change the *'ShowNumbers'* variable to *true* or *false*
+>**Note:** To change the style just change the ***'ShowNumbers'*** variable to ***true*** or ***false***
