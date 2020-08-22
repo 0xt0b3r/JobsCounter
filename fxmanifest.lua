@@ -4,7 +4,7 @@ game 'gta5'
 
 name 'ESX Job Counter - DarKnight'
 
-description 'A script that counts the number of people online in some jobs and shows them in the server details'
+description 'A script that counts the number of players online in some jobs and shows them in the server details!'
 
 author 'DarKnight'
 
