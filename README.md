@@ -2,6 +2,9 @@
 
 A script that counts the number of players online in some jobs and shows them in the server details!
 
+## Requirements
+* es_extended
+
 ## Use
 To use this feature you need to start it and add the following line to server.cfg :
 
